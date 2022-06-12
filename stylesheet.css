@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
+
+#MaDrdiv{
+    position:absolute;
+    z-index:7;
+    background-color:#6A6C6E;
+    text-align:center;
+    border-left:.2rem solid white;
+    border-top:.2rem solid white;
+    border-right:.2rem solid black;
+    border-bottom:.2rem solid black;
+    box-shadow: .3rem .3rem;
+}
+#MaDrdivheader{
+    padding:2rem;
+    cursor: grab;
+    z-index:7;
+}
+html{
+    background-color:#000;
+    color: white;
+    font-family: 'Reem Kufi', sans-serif;
+}
+h2 {
+    border-bottom:.2rem solid white;
+}
