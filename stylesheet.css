@@ -24,3 +24,24 @@ html{
 h2 {
     border-bottom:.2rem solid white;
 }
+a:link, a:visited {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+a:hover, a:active {
+    background-color: #872DE6;
+  }
+text, text2{
+    color: #872DE6;
+}
+text2:hover {
+    color: white;
+}
+footer {
+    position: fixed;
+    height: 1rem;
+    bottom: .5rem;
+    left: 50%;
+}
