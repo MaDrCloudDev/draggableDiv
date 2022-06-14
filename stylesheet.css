@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
 
 #MaDrdiv{
-    position: fixed;
+    position: absolute;
     white-space: nowrap;
     z-index:7;
     background-color:#6A6C6E;
