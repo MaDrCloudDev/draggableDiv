@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap');
 
-#MaDrdiv{
+#draggableDiv{
     position: absolute;
     white-space: nowrap;
     z-index:7;
@@ -13,12 +13,13 @@
     border-bottom:.2rem solid black;
     box-shadow: .3rem .3rem;
 }
-#MaDrdivheader{
+#draggableDivheader{
     padding:2rem;
     cursor: grab;
     z-index:7;
 }
 html{
+    overflow: hidden;
     background-color:#000;
     color: white;
     font-family: 'Reem Kufi', sans-serif;
