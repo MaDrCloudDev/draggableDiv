@@ -34,14 +34,15 @@ h2 {
     display: inline-block;
   }
 .a1:hover, .a1:active {
-    background-color: #338eef;
+    background-color: #fff000;
+    color: black;
   }
 .a2 {
     color: #338eef;
 }
 .a2:hover {
-    background-color: #338eef;
-    color: white;
+    background-color: #fff000;
+    color: black;
 }
 text {
     color: #338eef;
