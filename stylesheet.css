@@ -5,7 +5,7 @@
     white-space: nowrap;
     z-index:7;
     background-color:#6A6C6E;
-    text-decoration-color: #872DE6;
+    text-decoration-color: #338eef;
     text-align:center;
     border-left:.2rem solid white;
     border-top:.2rem solid white;
@@ -34,17 +34,17 @@ h2 {
     display: inline-block;
   }
 .a1:hover, .a1:active {
-    background-color: #872DE6;
+    background-color: #338eef;
   }
 .a2 {
-    color: #872DE6;
+    color: #338eef;
 }
 .a2:hover {
-    background-color: #872DE6;
+    background-color: #338eef;
     color: white;
 }
 text {
-    color: #872DE6;
+    color: #338eef;
 }
 footer {
     position: fixed;
